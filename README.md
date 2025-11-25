@@ -2,4 +2,4 @@
 
 Projeto de recomendação de animes baseado em preferências do usuário.  
 
-# *OBRIGADO ESPOSA MARAVILHOSA*
+# *OBRIGADO ESPOSA MARAVILHOSA Linda*
